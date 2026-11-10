@@ -205,4 +205,4 @@ This repository serves as the official landing page for ExifCleaner. The softwar
 **Get the most recent version of ExifCleaner today!**
 
 ---
-**Last updated:** 2026-11-10 18:24:51 UTC
+**Last updated:** 2026-11-10 23:51:01 UTC
